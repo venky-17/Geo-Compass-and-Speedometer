@@ -38,4 +38,10 @@ html {
 
   .units {
     font-size: 15px;
+      
+  }
+  .coordinates{
+    color: whitesmoke;
+      font-size: 35px;
+    
   }
